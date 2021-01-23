@@ -1,1 +1,2 @@
-# psychic-fortnight
+# synchronousBallMovement
+Ball moving synchronously
